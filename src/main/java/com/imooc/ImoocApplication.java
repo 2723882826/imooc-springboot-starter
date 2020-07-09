@@ -22,4 +22,7 @@ public class ImoocApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ImoocApplication.class, args);
 	}
+	public void test(){
+
+	}
 }
