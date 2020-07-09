@@ -23,6 +23,7 @@ public class ImoocApplication {
 		SpringApplication.run(ImoocApplication.class, args);
 	}
 	public void test(){
+		String s="1";
 
 	}
 }
